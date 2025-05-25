@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://dhfrjz15mb441.cloudfront.net/kanndeutsch/logo.png" alt="Logo" width="28" style="position: relative; top: 5px;">
+  <img src="https://dhfrjz15mb441.cloudfront.net/kanndeutsch/logo.png" alt="Logo" width="40" style="position: relative; top: 5px;">
   KannDeutsch
 </h1>
 
