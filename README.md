@@ -1,4 +1,7 @@
-<img src="https://dhfrjz15mb441.cloudfront.net/kanndeutsch/logo.png" alt="Logo" width="28" style="vertical-align: middle;"/> **KannDeutsch**
+<h1>
+  <img src="https://dhfrjz15mb441.cloudfront.net/kanndeutsch/logo.png" alt="Logo" width="28" style="position: relative; top: 5px;">
+  KannDeutsch
+</h1>
 
 A simple German-English English-German dictionary app for iOS, using data from dict.cc.
 
