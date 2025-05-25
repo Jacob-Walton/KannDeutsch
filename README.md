@@ -1,4 +1,4 @@
-# KannDeutsch
+<img src="https://dhfrjz15mb441.cloudfront.net/kanndeutsch/logo.png" alt="Logo" width="28" style="vertical-align: middle;"/> **KannDeutsch**
 
 A simple German-English English-German dictionary app for iOS, using data from dict.cc.
 
